@@ -3,13 +3,11 @@
         <div class="row align-items-center justify-content-lg-between">
             <div class="col-12 col-md-6 my-auto">
                 <div class="copyright text-center text-sm text-white text-lg-start">
-                    © <script>
+                    Copyright © <script>
                         document.write(new Date().getFullYear())
 
-                    </script>,
-                    made with <i class="fa fa-heart" aria-hidden="true"></i> by
-                    <a href="https://www.creative-tim.com" class="font-weight-bold text-white" target="_blank">LPPM</a>
-                    for a better research.
+                    </script>
+                    <a href="https://lppm.undip.ac.id/" class="font-weight-bold" target="blank_">Lembaga Penelitian dan Pengabdian Masyarakat UNDIP</a>. All rights reserved
                 </div>
             </div>
             <div class="col-12 col-md-6">
